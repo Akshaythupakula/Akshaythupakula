@@ -1,25 +1,54 @@
-# 💫 About Me:
-# Hi, I'm Akshay 👋<br><br>- Full-stack developer specializing in **React.js, React Native, Angular, Node.js, Express.js, and MongoDB**  <br>- 1.5 years of professional experience building scalable **web and mobile applications**  <br>- Currently focusing on **Data Structures, Algorithms, and System Design** for FAANG-level interviews  <br>- Worked on projects involving **API integrations, voice recognition, and real-time applications**  <br>- Open to collaborating on **open-source and innovative projects**  <br><br>📫 Reach me: [Email: akshaygoud509@gmail.com]
+# 👋 Hey, I'm Akshay Thupakula  
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Akshaythupakula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshaythupakula) [[Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Akshay Goud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaygoud509@gmail.com) 
-
-# 💻 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshaythupakula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akshaythupakula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaythupakula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshaythupakula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshaythupakula&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💻 Full-stack developer passionate about crafting seamless **mobile** and **web applications**.  
+I focus on building scalable solutions with clean architecture, optimized performance, and strong UI/UX.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshaythupakula&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me  
+
+- 🔹 I specialize in **cross-platform apps** with **React Native**, **Angular**, and **React.js**.  
+- 🔹 I love solving problems with **Python**, **Node.js**, and **Express.js** backends.  
+- 🔹 I work with **MongoDB** and modern APIs to design secure and fast data systems.  
+- 🔹 Currently sharpening my **DSA & system design** skills on **LeetCode**.  
+- 🔹 Always exploring **new technologies** to push ideas from concept to product.  
+
+---
+
+## 🛠️ Tech Arsenal  
+
+**Frontend & Mobile:** React Native • Angular • React.js • TypeScript • JavaScript  
+**Backend:** Node.js • Express.js • Django  
+**Database:** MongoDB  
+**Languages:** Python • JavaScript • TypeScript  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-thupakula-b243b0174/)  
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11837726/akshay-goud?tab=profile)  
+[![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~akshaythupakula1)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/akshaygoud50/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/Akshaythupakula)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Akshaygoud509@gmail.com)  
+
+---
+
+## 📊 GitHub Highlights  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=akshaythupakula1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaythupakula1&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaythupakula1&theme=radical)  
+
+---
+
+## 📌 Fun Stuff  
+
+- 🧑‍💻 Always curious about **AI + mobile integration**  
+- 📈 Tracking progress on **LeetCode** & open source  
+- ☕ Fueled by coffee and debugging sessions  
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
